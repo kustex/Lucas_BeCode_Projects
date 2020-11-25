@@ -2,7 +2,7 @@ In this challenge Maurice Magorane and Lucas Kustermans visualize some interesti
 	- This is the dataset we took: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data.csv
     
 ## Plot 1: Popularity vs speechiness and loudness.
-We wanted to know what makes a Song Likeable?. Analyzing Spotify's  popular song and see if people like songs witch are speechless or loudness. 
+We wanted to know what makes a Song Likeable? Analyzing Spotify's  popular song and see if people like songs witch are speechless or loudness. 
 This Graph show that people clearly like songs with loudness.
 
 ![plot1](./Graphs/plot1.png)
