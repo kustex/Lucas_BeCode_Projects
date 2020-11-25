@@ -19,7 +19,7 @@ Plot 3 is a barchart that shows that most of the songs in the dataset have a BPM
 ![plot3](./Graphs/plot3.png)
 
 ## Plot 4: Danceability vs Speechiness
-Between Danceability Speechiness what people want most?. 
+Between Danceability Speechiness what people want most? 
 It is clearly that people want Speechiness over danceability 
 
 ![plot4](./Graphs/plot4.png)
